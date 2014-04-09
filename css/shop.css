@@ -1,0 +1,71 @@
+/*--------------------------featured--------------------*/
+.items li {
+	float:left;
+	width:245px;
+	 -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-color: #F2F2F2 #EEEEEE #EEEEEE #F2F2F2;
+    border-image: none;
+    border-radius: 7px 7px 7px 7px;
+    border-style: solid;
+    border-width: 1px 2px 2px 1px;
+    margin: 10px auto 40px 7.5px;
+	padding: 20px 10px 10px;
+	list-style:none;
+}
+
+.item-details h5 {
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 25px;
+    text-align: center;
+}
+
+.item-details h5 a {
+    color: #777777;
+}
+
+
+.item-details h5 a:hover {
+    border: 0 none;
+    color: #555555;
+}
+
+.item-details h5 a:hover {
+    text-decoration: none;
+}
+
+.item-details p {
+    color: #888888;
+    font-size: 13px;
+    line-height: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.item-price {
+    background: none repeat scroll 0 0 #16CBE6;
+    border-radius: 5px 5px 5px 5px;
+    color: #FFFFFF;
+    display: inline-block;
+    font-size: 13px;
+    font-weight: bold;
+    margin: 7px 5px;
+    text-align: center;
+    width: 60px;
+}
+
+.btn {
+    margin-top: 5px;
+}
+/*-----------------------box----------------------------*/
+
+
+/*---------------------item-detail-----------------------*/
+
+.waypointarea span{
+	padding:10px;
+}
